@@ -2,6 +2,7 @@
 ;; A Minimal Roguelike in Standard Scheme
 ;; Created with Gemini 3.1 Pro
 ;; (C)Tsubasa Kato - 3/25/2026
+;; Many things are not yet implemented.
 ;; ---------------------------------------------------------
 
 ;; Game State
